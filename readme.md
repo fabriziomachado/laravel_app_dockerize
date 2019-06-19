@@ -12,8 +12,6 @@ Uma aplicação laravel dockerizada
 
 $git clone https://github.com/armandodelcol/laravel_app_dockerize.git
 
-$composer install
-
 $docker-compose up -d
 
 
