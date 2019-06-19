@@ -2,7 +2,7 @@ version: '3'
 
 services:
   app:
-    image: armandodelcol/laravel_app:latest
+    build: .
     container_name: app
     volumes:
       - .:/var/www
