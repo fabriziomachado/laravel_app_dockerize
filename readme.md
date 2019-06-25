@@ -14,4 +14,10 @@ $git clone https://github.com/armandodelcol/laravel_app_dockerize.git
 
 $docker-compose up -d
 
+## Imagem do projeto Go
+
+https://cloud.docker.com/repository/docker/armandodelcol/codeeducation
+
+$ docker rum -it --rm --name codeeducation armandodelcol/codeeducation
+
 
